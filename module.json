@@ -1,0 +1,8 @@
+{
+    "name": "PayPalXclick",
+    "version": "1.0.0",
+    "description": "Provides a paypal xclick payment in the Flute",
+    "authors": ["hiqdev", "Flames"],
+    "providers": ["Flute\\Modules\\PayPalXclick\\ServiceProviders\\PayPalXclickServiceProvider"],
+    "dependencies": {}
+}
